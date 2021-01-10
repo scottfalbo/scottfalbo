@@ -3,8 +3,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=scottfalbo&show_icons=true&theme=merko">
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=scottfalbo)]
-
 <p align="center">
   <img src = "https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
   <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
