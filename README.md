@@ -2,12 +2,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=scottfalbo&show_icons=true&theme=merko">
 </p>
-<p align="center">
-<img src="https://github.com/scottfalbo/github-readme-stats&show_icons=true&theme=merko">
-</p>
-
-
-
 
 <p align="center">
   <img src = "https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
