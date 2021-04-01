@@ -1,3 +1,15 @@
+Hello, my name is Scott Falbo, I'm a software developer and artist in Seattle. <br />
+
+As a professional tattoo artist, and studio owner, my main focus has always been to drive an agile, creative work environment, by adapting to growing or changing industry trends. <br />
+
+My career two decade career has centered around creating, and implementing, large scale custom projects based on customer driven input. <br />
+
+I’m enthusiastic about the opportunity to work with new people, and learn new perspectives and modalities. <br />
+
+I view software development as the perfect intersection of creativity and technology, and a way to solve complex puzzles or make innovative new products. <br />
+
+If you are interested you can view my art portfolio here: scottfalboart.com <br />
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=scottfalbo&show_icons=true&theme=merko">
