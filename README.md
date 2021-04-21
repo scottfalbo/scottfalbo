@@ -1,6 +1,12 @@
 
 
-<p width="70%">
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=scottfalbo&show_icons=true&theme=merko">
+</p>
+
+<p width=70%>
   
 Hello, my name is Scott.  I’m a software developer and artist based in Seattle.  I like learning new skills and making things.
 
@@ -13,10 +19,6 @@ Before turning my focus to software development I spent over 20 years as a profe
 
 I'm excited to bring that experience to developing innovative, appealing, and accessable solutions to complex real world problems.
   
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=scottfalbo&show_icons=true&theme=merko">
 </p>
 
 <h2 align="center">Languages</h2>
