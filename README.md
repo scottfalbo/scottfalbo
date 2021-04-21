@@ -1,5 +1,22 @@
 
 
+<p>
+  
+Hello, my name is Scott.  I’m a software developer and artist based in Seattle.  I like learning new skills and making things.
+
+<br>
+
+I think coding is awesome.  It's basically writing spells that command electricity and metal configurations to react.  It's puzzles and sorcery mixed into one!
+
+<br>
+
+Before turning my focus to software development I spent over 20 years as a professional tattoo artist.  My career centered around creating custom products that not only met the clients input and vision, but also appealed visually to a larger audience. 
+
+<br>
+
+I'm excited to bring that experience to developing innovative, appealing, and accessable solutions to complex real world problems.
+  
+</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=scottfalbo&show_icons=true&theme=merko">
