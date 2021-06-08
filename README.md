@@ -30,14 +30,13 @@ I'm excited to bring that experience to developing innovative, appealing, and ac
   <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 </p>
 
-<h2 align="center">Frameworks</h2>
+
+<h2 align="center">Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/.NET%20Core-7A1680?style=flat&logo=dot-net&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/jQuery%20-%230769AD.svg?style=flat&logo=jquery&logoColor=00c8ff">
 </p>
-
-<h2 align="center">Tools</h2>
 <p align="center">
   <img src ="https://img.shields.io/badge/-Unity-121212?style=flat&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure%20-%230072C6.svg?style=flat&logo=azure-devops&logoColor=00c8ff">
