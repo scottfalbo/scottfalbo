@@ -2,10 +2,6 @@
 
 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=scottfalbo&show_icons=true&theme=merko">
-</p>
-
 <p width=70%>
 Hello, and thank you for visiting my portfolio page.  I'm a huge nerd that loves to make things.  More specifically, I'm a software developer and tattoo artist in Seattle.
 
@@ -58,4 +54,8 @@ Thanks for looking, let's write some spells!
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=00c8ff">
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=scottfalbo&show_icons=true&theme=merko">
+</p>
 
