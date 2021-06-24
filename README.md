@@ -7,8 +7,13 @@
 </p>
 
 <p width=70%>
+Hello, and thank you for visiting my portfolio page.  I'm a huge nerd that loves to make things.  More specifically, I'm a software developer and tattoo artist in Seattle.
+
   
-I'm a huge gamer nerd that loves coding.  Learning a new language or technologies to solve a problem domain is basically studying ancient tongues to scribe spells.  HttpRequest, more like Neo-Electrical Telekinesis.  Writing code is wizardry, and who doesn't want to be a wizard.
+Whether it's software or artwork I really just like creating things.  I enjoy hearing your ideas and collaborating to bring your vision into reality.  I like working with new people and teams to gain new perspectives and learn new skills.  That may be learning something new about a culture while discussing a tattoo design, or learning a new technology to write an application.
+  
+  
+Learning a new language or technologies to solve a problem domain is basically studying ancient tongues to scribe spells.  HttpRequest, more like Neo-Electrical Telekinesis.  Writing code is wizardry, and who doesn't want to be a wizard.
 
   
 As a long time end game MMO gamer and puzzler I enjoy solving problems and organizing solutions.  I find great satisfaction in laying out repository patterns in .NET or figuring out entity relations for a database.  When everything works out it's like beating a level of a game.  If things don't work out it's a learning experience until they do.
