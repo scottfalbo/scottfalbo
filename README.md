@@ -8,7 +8,7 @@
 
 <p width=70%>
   
-            I'm a huge gamer nerd that loves coding.  Learning a new language or technologies to solve a problem domain is basically studying ancient tongues to scribe spells.  HttpRequest, more like Neo-Electrical Telekinesis.  Writing code is wizardry, and who doesn't want to be a wizard.
+I'm a huge gamer nerd that loves coding.  Learning a new language or technologies to solve a problem domain is basically studying ancient tongues to scribe spells.  HttpRequest, more like Neo-Electrical Telekinesis.  Writing code is wizardry, and who doesn't want to be a wizard.
 
   
 As a long time end game MMO gamer and puzzler I enjoy solving problems and organizing solutions.  I find great satisfaction in laying out repository patterns in .NET or figuring out entity relations for a database.  When everything works out it's like beating a level of a game.  If things don't work out it's a learning experience until they do.
