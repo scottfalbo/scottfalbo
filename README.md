@@ -8,16 +8,16 @@
 
 <p width=70%>
   
-Hello, my name is Scott.  I’m a software developer and artist based in Seattle.  I like learning new skills and making things.
+            I'm a huge gamer nerd that loves coding.  Learning a new language or technologies to solve a problem domain is basically studying ancient tongues to scribe spells.  HttpRequest, more like Neo-Electrical Telekinesis.  Writing code is wizardry, and who doesn't want to be a wizard.
 
+  
+As a long time end game MMO gamer and puzzler I enjoy solving problems and organizing solutions.  I find great satisfaction in laying out repository patterns in .NET or figuring out entity relations for a database.  When everything works out it's like beating a level of a game.  If things don't work out it's a learning experience until they do.
 
-I think coding is awesome.  It's basically writing spells that command electricity and metal configurations to react.  It's puzzles and sorcery mixed into one!
+  
+While I enjoy puzzling and problem solving I'm also a career artist with a passion for visual creation.  With a firm understanding of composition and color theory I also enjoy building attractive, accessible and functional front ends.
 
-
-Before turning my focus to software development I spent over 20 years as a professional tattoo artist.  My career centered around creating custom products that not only met the clients input and vision, but also appealed visually to a larger audience. 
-
-
-I'm excited to bring that experience to developing innovative, appealing, and accessable solutions to complex real world problems.
+  
+Thanks for looking, let's write some spells!
   
 </p>
 
