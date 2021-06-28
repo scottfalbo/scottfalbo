@@ -1,7 +1,4 @@
 
-
-
-
 <p width=70%>
 Hello, and thank you for visiting my portfolio page.  I'm a huge nerd that loves to make things.  More specifically, I'm a software developer and tattoo artist in Seattle.
 
