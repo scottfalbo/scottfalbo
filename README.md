@@ -12,7 +12,7 @@ Learning a new language or technologies to solve a problem domain is basically s
 As a long time end game MMO gamer and puzzler I enjoy solving problems and organizing solutions.  I find great satisfaction in laying out repository patterns in .NET or figuring out entity relations for a database.  When everything works out it's like beating a level of a game.  If things don't work out it's a learning experience until they do.
 
   
-While I enjoy puzzling and problem solving I'm also a career artist with a passion for visual creation.  With a firm understanding of composition and color theory I also enjoy building attractive, accessible and functional front ends.
+While I enjoy puzzling and problem solving I'm also a career artist with a passion for visual creation.  With a firm understanding of composition and color theory I also enjoy building visually appealing, and accessable, front ends.
 
   
 Thanks for looking, let's write some spells!
