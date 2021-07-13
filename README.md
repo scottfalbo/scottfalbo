@@ -15,7 +15,7 @@ As a long time end game MMO gamer and puzzler I enjoy solving problems and organ
 While I enjoy puzzling and problem solving I'm also a career artist with a passion for visual creation.  With a firm understanding of composition and color theory I also enjoy building visually appealing, and accessable, front ends.
 
   
-Thanks for looking, let's write some spells!
+Thanks for looking, let's craft some code!
   
 </p>
 
