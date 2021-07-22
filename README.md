@@ -56,11 +56,11 @@ Thanks for looking, let's craft some code!
 
 <h2 align="center">Social</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/scott-falbo/" target="_blank">
+<a href="https://www.linkedin.com/in/scott-falbo/" target=_blank>
   <img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/linkedIn.png?raw=true" height=60 style="margin:10px;">
 </a>
 
-<a href="https://www.instagram.com/scottfalboart/" target="_blank">
+<a href="https://www.instagram.com/scottfalboart/" target=_blank>
   <img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/instagram.png?raw=true" height=60 style="margin:10px;">
 </a>
 </p>
