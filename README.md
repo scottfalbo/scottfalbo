@@ -35,19 +35,19 @@ Thanks for looking, let's craft some code!
 <h2 align="center">Technologies and Tools</h2>
 <p align="center">
     <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/dotnetcore.png?raw=true" height=50 style="margin:5px;">
-    <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/visual_studio.png?raw=true" height=50 style="margin:5px;">
-    <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/vscode.png?raw=true" height=50 style="margin:5px;">
     <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/azure.png?raw=true" height=50 style="margin:5px;">
     <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/react.png?raw=true" height=50 style="margin:5px;">
     <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/jQuery.png?raw=true" height=50 style="margin:5px;">
+    <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/bootstrap.png?raw=true" height=50 style="margin:5px;">
     <br>
+    <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/unity.png?raw=true" height=50 style="margin:5px;">
     <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/github-light.png?raw=true" height=50 style="margin:5px;">
     <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/git.png?raw=true" height=50 style="margin:5px;">
-    <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/unity.png?raw=true" height=50 style="margin:5px;">
-    <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/bootstrap.png?raw=true" height=50 style="margin:5px;">
+    <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/visual_studio.png?raw=true" height=50 style="margin:5px;">
+    <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/vscode.png?raw=true" height=50 style="margin:5px;">
     <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/nodejs.png?raw=true" height=50 style="margin:5px;">
-    <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/heroku.png?raw=true" height=50 style="margin:5px;">
     <br>
+    <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/heroku.png?raw=true" height=50 style="margin:5px;">
     <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/postgres.png?raw=true" height=50 style="margin:5px;">
     <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/postman.png?raw=true" height=50 style="margin:5px;">
     <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/xamarin.png?raw=true" height=50 style="margin:5px;">
