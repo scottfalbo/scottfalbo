@@ -17,6 +17,7 @@ Learning a new language or technologies to solve a problem domain is basically s
   <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/cSharp.png?raw=true" height=80 style="margin:10px;">
       <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/dotnetcore.png?raw=true" height=80 style="margin:5px;">
     <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/azure.png?raw=true" height=80 style="margin:5px;">
+        <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/visual_studio.png?raw=true" height=80 style="margin:5px;">
 </p>
 
 
@@ -26,13 +27,12 @@ Learning a new language or technologies to solve a problem domain is basically s
   <img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/css.png?raw=true" height=50 style="margin:10px;"> 
   <img src = "https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/html.png?raw=true" height=50 style="margin:10px;">
     <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/react.png?raw=true" height=50 style="margin:5px;">
-    <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/jQuery.png?raw=true" height=50 style="margin:5px;">
+        <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/vscode.png?raw=true" height=50 style="margin:5px;">
     <br>
     <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/unity.png?raw=true" height=50 style="margin:5px;">
     <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/github-light.png?raw=true" height=50 style="margin:5px;">
     <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/git.png?raw=true" height=50 style="margin:5px;">
-    <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/visual_studio.png?raw=true" height=50 style="margin:5px;">
-    <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/vscode.png?raw=true" height=50 style="margin:5px;">
+        <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/jQuery.png?raw=true" height=50 style="margin:5px;">
     <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/nodejs.png?raw=true" height=50 style="margin:5px;">
     <br>
         <img src="https://github.com/scottfalbo/shared-readme-assets/blob/main/assets/bootstrap.png?raw=true" height=50 style="margin:5px;">
